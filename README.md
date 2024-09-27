@@ -1,4 +1,5 @@
-![Screenshot 2024-09-26 234056](https://github.com/user-attachments/assets/ba03d17c-7f7d-442f-98bc-063b00118847)
+![Screenshot 2024-09-26 234056](https://github.com/user-attachments/assets/a1bcbfc6-f91f-4383-a529-e0c1ba9ea490)
+
 
 
 Steps I Followed in My First Power BI Project:
